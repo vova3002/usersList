@@ -1,0 +1,12 @@
+.user__list{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.user__img{
+  width: 200px;
+}
